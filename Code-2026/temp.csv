@@ -1,0 +1,17 @@
+segment_id,speaker,start_sec,end_sec,duration_sec,text
+seg_0,A,1.3399999999999999,2.64,1.3000000000000003,"There it is, that's okay."
+seg_1,A,4.64,4.739999999999999,0.09999999999999964,And
+seg_2,A,6.239999999999999,11.140000000000002,4.900000000000003,Now all the girls drying the uh plate.
+seg_3,A,12.190000000000003,15.740000000000004,3.5500000000000007,And she's overflowing the water and not the sink.
+seg_4,A,23.990000000000006,26.140000000000004,2.1499999999999986,There's a boy up on a stool and he's
+seg_5,A,26.42,27.520000000000003,1.1000000000000014,It's falling off of it.
+seg_6,A,29.020000000000003,30.67,1.6499999999999986,Trying to get a cake or something.
+seg_7,A,38.07,41.82000000000001,3.750000000000007,"See, he's trying to get this and he's gonna fall off of there."
+seg_8,B,41.82000000000001,42.370000000000005,0.5499999999999972,Mm-hmm.
+seg_9,B,42.42,43.07000000000001,0.6500000000000057,Thank you.
+seg_10,A,43.370000000000005,43.52,0.14999999999999858,And
+seg_11,A,47.22,51.17,3.950000000000003,the mother's water's all coming down out of her sink there.
+seg_12,C,52.916,53.916,1.0,What's happening here?
+seg_13,A,56.065999999999995,60.065999999999995,4.0,The little girl is putting her hand up to the boy.
+seg_14,A,60.866,64.366,3.5,"They want to get something out of that jar, a pineapple jar or something."
+seg_15,C,65.51599999999999,65.966,0.45000000000000284,Okay.
